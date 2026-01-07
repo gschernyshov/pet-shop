@@ -4,11 +4,12 @@
 
 FRONTEND 
 
-Next.js  + TypeScript 
-React 
-State / Data: стейт менеджер + RTK Query 
-UI: TailwindCSS
+- Next.js  + TypeScript 
+- React 
+- State / Data: стейт менеджер + RTK Query 
+- UI: TailwindCSS
 
 BACKEND / БД
-Next.js API Routes 
-Prisma
+
+- Next.js API Routes 
+- Prisma
